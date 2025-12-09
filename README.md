@@ -13,7 +13,7 @@
 ```bash
 wsl --install
 ```
-Para más y mejor explicación del setup de esto entra directamente a 0. Iniciación, en el README está **TODO**!! 
+Para más y mejor explicación del setup de esto entra directamente a `1. Iniciación`, en el README está **TODO**!! 
 
 ---
 
@@ -21,16 +21,18 @@ Para más y mejor explicación del setup de esto entra directamente a 0. Iniciac
 
 | 📁 Carpeta | 📝 Contenido | 📊 Estado |
 | :--- | :--- | :---: |
-| [`0. Iniciación`](./0.%20Iniciación/) | Instalación de WSL completa (para cmd o vsc), comandos básicos e introducción! | ✅ |
+| [`0. Fundamentos`](./0.%20Fundamentos/) | Fundamentos y toda la base de los comandos básicos para Linux | ⌛ En proceso |
+| [`1. Iniciación`](./1.%20Iniciación/) | Instalación de WSL completa (para cmd o vsc), comandos básicos e introducción! | ✅ |
 | [`-`]() | - | ⏳ |
 
 ---
 
 ## 🚀 Empieza por aquí
 
-👉 **Primer paso:** entra en `0. Iniciación` para tener una visión global de cómo instalar **WSL** y darle caña ya al **Bash** 💻✨  
+👉 **Primer paso:** entra en `1. Iniciación` para tener una visión global de cómo instalar **WSL** y darle caña ya al **Bash** 💻✨ 
+😶‍🌫️ **Si no tienes idea de nada** entra en `0. Fundamentos` para aprender desde 0, con pasitos de bebe y **prácticas** para quitarte el miedo 🫂 
 
 ---
 
 > 🧩 Este repositorio irá creciendo según necesidades propias o vuestras 🌈  
-> 💛 Hecho con cariño, café y mucho push 💅✨
+> 🖤 Hecho con cariño, café y mucho push 💅✨
