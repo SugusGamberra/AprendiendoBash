@@ -42,6 +42,6 @@ Para más y mejor explicación del setup de esto entra directamente a `1. Inicia
 
 ## 🫧 Contribuidores
 
-<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+<a href = "https://github.com/SugusGamberra/AprendiendoBash/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=SugusGamberra/AprendiendoBash"/>
 </a>
