@@ -37,3 +37,11 @@ Para más y mejor explicación del setup de esto entra directamente a `1. Inicia
 
 > 🧩 Este repositorio irá creciendo según necesidades propias o vuestras 🌈  
 > 🖤 Hecho con cariño, café y mucho push 💅✨
+
+---
+
+## 🫧 Contribuidores
+
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=SugusGamberra/AprendiendoBash"/>
+</a>
