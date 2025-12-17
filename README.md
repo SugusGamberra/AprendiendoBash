@@ -24,6 +24,7 @@ Para más y mejor explicación del setup de esto entra directamente a `1. Inicia
 | [`0. Fundamentos`](./0.%20Fundamentos/) | Fundamentos y toda la base de los comandos básicos para Linux | ⌛ En proceso |
 | [`1. Iniciación`](./1.%20Iniciación/) | Instalación de WSL completa (para cmd o vsc), comandos básicos e introducción! | ✅ |
 | [`2. Tarea`](2.%20Tarea/) | Actividades resueltas con enunciados. | ✅ |
+| [`3. Programación en Bash`](./3.%20Programación%20en%20bash/) | Ejemplos de scripts.sh y ciberseguridad | ✅ |
 | [`-`]() | - | ⏳ |
 
 ---
