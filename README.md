@@ -24,8 +24,9 @@ Para más y mejor explicación del setup de esto entra directamente a `1. Inicia
 | [`0. Fundamentos`](./0.%20Fundamentos/) | Fundamentos y toda la base de los comandos básicos para Linux | ⌛ En proceso |
 | [`1. Iniciación`](./1.%20Iniciación/) | Instalación de WSL completa (para cmd o vsc), comandos básicos e introducción! | ✅ |
 | [`2. Tarea`](2.%20Tarea/) | Actividades resueltas con enunciados. | ✅ |
-| [`3. Programación en Bash`](./3.%20Programación%20en%20bash/) | Ejemplos de scripts.sh y ciberseguridad | ✅ |
-| [`-`]() | - | ⏳ |
+| [`3. Scripts ciberseguridad`](./3.%20Scripts%20ciberseguridad/) | Ejemplos de scripts.sh y ciberseguridad | ⌛ En proceso |
+| [`4. Tuneo Bash`](./4.%20Tuneo%20Bash/) | Para ponerte la terminal to rexulona | ✅ |
+| [`5. Scripts`](./5.%20Scripts/) | Todo tipo de scripts no referentes a "ciberseguridad" | ⌛ En proceso|
 
 ---
 
