@@ -322,3 +322,40 @@ Indica por dónde salen los paquetes y qué puerta de enlace se usa, clave para 
 
 > Bash no es solo comandos, es **programación real orientada a sistemas**. Etos scripts se usan tal cual en servers y ciberseguridad.
 > Se irá llenando de más explicaciones y scripts a medida que avancemos :3
+
+---
+
+## 🔑 [Generador de Contraseñas](./password_generator.sh)
+
+Este script es *brutal* para dejar de usar contraseñas que están más que quemadas :P Es una herramienta interactiva que genera claves robustas y las guarda automáticamente.
+
+### ⚙️ Cómo funciona
+
+El script es un menú `while true` que te guía paso a paso:
+1.  **Validación de entrada**: Se asegura de que la longitud esté entre **8 y 32** caracteres (ni muy corta que sea insegura, ni kilométrica que no te acuerdes).
+2.  **Personalización a la carta**: Tú eliges si quieres añadirle *salsa*: mayúsculas, números o caracteres especiales.
+
+### 🧠 Conceptos clave del código
+
+#### ➕ Concatenación de cadenas (`+=`)
+
+```bash
+caracteres+="ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
+```
+
+En lugar de tener una lista fija vamos construyendo la variable `caracteres` sumandole opciones según respondas.
+
+#### 💾 Redirección de salida (>>)
+
+`>>` (append) vs `>`(overwrite):
+
+* `>`: Sobreescribe todo el archivo antes de guardar lo que le metas
+* `>>`: Añade lo que le metas al final del archivo respetando lo que haya antes
+
+```bash
+echo "$password" >> $archivo
+```
+
+#### 🎲 Randomización
+
+Usamos un bucle `for` que itere tantas veces como la longitud que ingrese el usuario, seleccionando en cada vuelta un caracter aleatorio de nuestra "bolsa" usando `RANDOM`
